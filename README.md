@@ -18,5 +18,5 @@ XLS forms are widely used for creating data collection tools that can be easily 
 
 The following XLS forms are included in this repository:
 
-1. **[Form 1: Farmer Information Survey](.BBTD.xlsx)**
+1. **[Form 1: Farmer Information Survey](BBTD.xlsx)**
    - Description: A basic household survey form.
